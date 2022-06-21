@@ -1,6 +1,6 @@
 ## Adding an Issue Template
 
-On GitHub,if you want to address any issue such as a change in your repository's code,you can manually create an issue-template for your repository.Addind an issue template for a repository requires certain simple steps to be followed.
+On GitHub,if you want to address any issue such as a change in your repository's code,you can manually create an issue-template for your repository.Adding an issue template for a repository requires certain simple steps to be followed.
 
 ### Steps for adding an issue template :
 
