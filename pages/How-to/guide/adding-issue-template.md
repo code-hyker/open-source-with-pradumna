@@ -32,3 +32,6 @@ On GitHub,if you want to address any issue such as a change in your repository's
   <div align="center">
    <img src="https://user-images.githubusercontent.com/102421475/174842790-cb289f5b-8eca-4b1c-a649-ab62275ae28f.png">
   </div>
+  <br><br>
+  
+  If you want your issue template to be present in a hidden directory , then you ned to type .github followed by a slash(/) again followed by the name of the issue   template.
